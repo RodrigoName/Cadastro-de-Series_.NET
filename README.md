@@ -1,4 +1,4 @@
 # Digital Innovation One - Prática .NET
 
-## Criando uma APP de cadastro em memória
+## Projeto do Bootcamp Decola Tech - Criando um app simples de cadastro de séries em .NET
 
